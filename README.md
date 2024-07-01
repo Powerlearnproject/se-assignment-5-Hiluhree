@@ -71,21 +71,21 @@ Answer the following questions based on your understanding of the installation a
 ## 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
    ### Role of Extensions
-    - It Enhances Functionality: `Extensions add features and capabilities to VS Code, tailored to specific languages, frameworks, and workflows.`
+   - It Enhances Functionality: `Extensions add features and capabilities to VS Code, tailored to specific languages, frameworks, and workflows.`
    ### Finding, Installing, and Managing Extensions
-    #### Finding Extensions:
-        - Click on the Extensions icon in the `Activity Bar` or press `Ctrl+Shift+X.`
-        - Use the search bar to find extensions by name or keyword.
-    #### Installing Extensions:
-        - Click the Install button next to the desired extension.
-    #### Managing Extensions:
-        - View installed extensions in the Extensions side bar.
-        - Disable or uninstall extensions as needed.
-    #### Essential Extensions for Web Development
-    - `Prettier - Code formatter`
-    - `ESLint`
-    - `Live Server`
-    - `HTML CSS Support`
+   #### Finding Extensions:
+   - Click on the Extensions icon in the `Activity Bar` or press `Ctrl+Shift+X.`
+   - Use the search bar to find extensions by name or keyword.
+   #### Installing Extensions:
+   - Click the Install button next to the desired extension.
+   #### Managing Extensions:
+   - View installed extensions in the Extensions side bar.
+   - Disable or uninstall extensions as needed.
+   #### Essential Extensions for Web Development
+   - `Prettier - Code formatter`
+   - `ESLint`
+   - `Live Server`
+   - `HTML CSS Support`
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
