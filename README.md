@@ -45,19 +45,19 @@ Answer the following questions based on your understanding of the installation a
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
      ### Main Components of the VS Code User Interface
        #### Activity Bar:
-       `Located on the far left.`
-       `ontains icons for Explorer, Search, Source Control, Run and Debug, and Extensions.`
-       `Allows quick access to different functionalities.`
+       - `Located on the far left.`
+       - `Contains icons for Explorer, Search, Source Control, Run and Debug, and Extensions.`
+       - `Allows quick access to different functionalities.`
        #### Side Bar:
-       `Appears to the right of the Activity Bar.`
-       `Displays content related to the selected activity, such as the file explorer or source control.`
+       - `Appears to the right of the Activity Bar.`
+       - `Displays content related to the selected activity, such as the file explorer or source control.`
        #### Editor Group:
-       `The central area where files are opened and edited.`
-       `Supports multiple tabs and split views for side-by-side editing.`
+       - `The central area where files are opened and edited.`
+       - `Supports multiple tabs and split views for side-by-side editing.`
        #### Status Bar:
-       `Located at the bottom.`
-       `Shows information such as the current file's encoding, line number, and Git branch.`
-       `Provides quick access to some settings and features.`
+       - `Located at the bottom.`
+       - `Shows information such as the current file's encoding, line number, and Git branch.`
+       - `Provides quick access to some settings and features.`
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
