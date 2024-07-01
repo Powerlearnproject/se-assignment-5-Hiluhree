@@ -22,8 +22,24 @@ Answer the following questions based on your understanding of the installation a
          - Select additional tasks (e.g., creating a desktop icon, adding VS Code to the PATH, etc.).
       - Click Install.
 
-2. First-time Setup:
+## 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+     ### Initial Configurations and Settings
+      #### User Interface Theme:
+       - Go to File > Preferences > Color Theme.
+       - Choose a theme that suits your preference, such as Dark+ or Light+.
+      #### Font Size and Family:
+       - Open File > Preferences > Settings.
+       - Search for Font Size and adjust it to your liking.
+       - You can also change the font family if needed.
+      #### Extensions:
+       - Install recommended extensions such as:
+       - Prettier - Code formatter for consistent code styling.
+       - ESLint for JavaScript linting.
+       - Python for Python development.
+       - Live Server for live reloading in web development.
+      #### Keyboard Shortcuts:
+       - Customize shortcuts via File > Preferences > Keyboard Shortcuts.
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
