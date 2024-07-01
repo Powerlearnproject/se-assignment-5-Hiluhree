@@ -59,11 +59,33 @@ Answer the following questions based on your understanding of the installation a
        - `Shows information such as the current file's encoding, line number, and Git branch.`
        - `Provides quick access to some settings and features.`
 
-4. Command Palette:
+## 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+   #### What is the Command Palette?
+   - The Command Palette is a powerful tool in VS Code that allows you to access various commands and features and it can be accessed by pressing `Ctrl+Shift+P (or F1)`.
+   #### Common Tasks that can be perfomed using command palette:
+   - `Opening settings: Preferences: Open Settings.`
+   - `Installing extensions: Extensions: Install Extensions.`
+   - `Running tasks: Tasks: Run Task.`
 
-5. Extensions in VS Code:
+## 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+   ### Role of Extensions
+    - It Enhances Functionality: `Extensions add features and capabilities to VS Code, tailored to specific languages, frameworks, and workflows.`
+   ### Finding, Installing, and Managing Extensions
+    #### Finding Extensions:
+        - Click on the Extensions icon in the `Activity Bar` or press `Ctrl+Shift+X.`
+        - Use the search bar to find extensions by name or keyword.
+    #### Installing Extensions:
+        - Click the Install button next to the desired extension.
+    #### Managing Extensions:
+        - View installed extensions in the Extensions side bar.
+        - Disable or uninstall extensions as needed.
+    #### Essential Extensions for Web Development
+    - `Prettier - Code formatter`
+    - `ESLint`
+    - `Live Server`
+    - `HTML CSS Support`
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
