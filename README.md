@@ -61,34 +61,42 @@ Answer the following questions based on your understanding of the installation a
 
 ## 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
-   #### What is the Command Palette?
-   - The Command Palette is a powerful tool in VS Code that allows you to access various commands and features and it can be accessed by pressing `Ctrl+Shift+P (or F1)`.
-   #### Common Tasks that can be perfomed using command palette:
-   - `Opening settings: Preferences: Open Settings.`
-   - `Installing extensions: Extensions: Install Extensions.`
-   - `Running tasks: Tasks: Run Task.`
+     #### What is the Command Palette?
+     - The Command Palette is a powerful tool in VS Code that allows you to access various commands and features and it can be accessed by pressing `Ctrl+Shift+P (or F1)`.
+     #### Common Tasks that can be perfomed using command palette:
+     - `Opening settings: Preferences: Open Settings.`
+     - `Installing extensions: Extensions: Install Extensions.`
+     - `Running tasks: Tasks: Run Task.`
 
 ## 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
-   ### Role of Extensions
-   - It Enhances Functionality: `Extensions add features and capabilities to VS Code, tailored to specific languages, frameworks, and workflows.`
-   ### Finding, Installing, and Managing Extensions
-   #### Finding Extensions:
-   - Click on the Extensions icon in the `Activity Bar` or press `Ctrl+Shift+X.`
-   - Use the search bar to find extensions by name or keyword.
-   #### Installing Extensions:
-   - Click the Install button next to the desired extension.
-   #### Managing Extensions:
-   - View installed extensions in the Extensions side bar.
-   - Disable or uninstall extensions as needed.
-   #### Essential Extensions for Web Development
-   - `Prettier - Code formatter`
-   - `ESLint`
-   - `Live Server`
-   - `HTML CSS Support`
+     ### Role of Extensions
+     - It Enhances Functionality: `Extensions add features and capabilities to VS Code, tailored to specific languages, frameworks, and workflows.`
+     ### Finding, Installing, and Managing Extensions
+     #### Finding Extensions:
+     - Click on the Extensions icon in the `Activity Bar` or press `Ctrl+Shift+X.`
+     - Use the search bar to find extensions by name or keyword.
+     #### Installing Extensions:
+     - Click the Install button next to the desired extension.
+     #### Managing Extensions:
+     - View installed extensions in the Extensions side bar.
+     - Disable or uninstall extensions as needed.
+     #### Essential Extensions for Web Development
+     - `Prettier - Code formatter`
+     - `ESLint`
+     - `Live Server`
+     - `HTML CSS Support`
 
-6. Integrated Terminal:
+## 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
+  ### Opening and Using the Integrated Terminal
+  - Open Terminal:
+   - Use `Ctrl+`` (backtick) to open the integrated terminal.
+   - Alternatively, go to View > Terminal.
+  #### Advantages:
+   - `Seamless integration with the editor.`
+   - `Execute commands and scripts without leaving the editor.`
+   - `Support for multiple terminal sessions.`
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
