@@ -12,7 +12,7 @@ Answer the following questions based on your understanding of the installation a
      ### Prerequisites:
       - Ensure your system meets the minimum requirements. Windows 11 should be up to date.
      ### Download:
-      - Go to the Visual Studio Code website.
+      - Go to the [Visual Studio Code website](https://code.visualstudio.com/) .
       - Click on the download button for Windows to get the installer.
      ### Run the Installer:
       - Open the downloaded `VSCodeSetup.exe` file.
